@@ -28,7 +28,7 @@ jobs:
         flake8 . > flake8_report.txt || ture
 
     - name: Upload flake8 report
-      uses: action/upload-artifact@v4
+      uses: actions/upload-artifact@v4
       with: 
         name: flake8-report
         path: flake8-report.txt
