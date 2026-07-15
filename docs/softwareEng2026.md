@@ -1,3 +1,10 @@
+---
+layout: page
+title: software Eng. lecture note
+permalink: /docs/softwareEng2026
+---
+
+
 # これは第1回から第6回までのソフトウェア工学の講義において学んだ内容をまとめたものです。
 
 ## 第1回
